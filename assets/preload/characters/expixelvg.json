@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				961,
+				420
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "expixelvg idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-230,
+				-689
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				-230,
+				-690
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "GF Dancing Beat"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/expixelvg",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.80000000000002
+}

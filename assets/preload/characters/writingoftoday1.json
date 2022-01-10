@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				751,
+				640
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "monika.exe left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				750,
+				640
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "monika.exe down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				754,
+				640
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "monika.exe up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				750,
+				637
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "monika.exe right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				750,
+				640
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "monika.exe idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				750,
+				640
+			],
+			"loop": false,
+			"anim": "writingoftoday",
+			"fps": 12,
+			"name": "writingoftoday1 writingoftoday",
+			"indices": []
+		},
+		{
+			"offsets": [
+				750,
+				640
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				751,
+				640
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "monika.exe hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/writingoftoday1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-monika.exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		140,
+		55
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

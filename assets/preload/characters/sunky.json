@@ -1,0 +1,203 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				-150
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sunkyLEFT instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-160
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sunkyDOWN instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				-120
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sunkyUP instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-133
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sunkyRIGHT instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-120
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sunkyIDLE instance"
+		},
+		{
+			"fps": 24,
+			"anim": "danceleft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "danceleft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "danceright",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "danceright"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				711,
+				580
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "sunky hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sunky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-sunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		80,
+		215
+	],
+	"camera_position": [
+		-100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				32
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SMonika left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-130
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SMonika down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				40
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SMonika up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SMonika right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SMonika idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "angry",
+			"indices": [],
+			"name": "SMonika angry"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				-88
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				-88
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				0,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "SMonika HEY"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SMonika",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "supermonika",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		186,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

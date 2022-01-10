@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				590,
+				630
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "deadsonic.exe idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				581,
+				632
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "deadsonic.exe down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				597,
+				631
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "deadsonic.exe up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				639,
+				626
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "deadsonic.exe left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				534,
+				631
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "deadsonic.exe right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fadeIn",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Silver Spawn Full"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				120
+			],
+			"anim": "fadeOut",
+			"fps": 24,
+			"name": "Silver Spawn Full",
+			"indices": [
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deadsonic.exe",
+	"position": [
+		-10,
+		0
+	],
+	"healthicon": "deadsonic.exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-207,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}
